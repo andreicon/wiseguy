@@ -1,4 +1,4 @@
-# 🤌 Wiseguy
+# 🕴️ Wiseguy
 
 **A Claude Code skill that trades corporate assistant-speak for short, blunt, North Jersey candor.**
 
